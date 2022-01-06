@@ -1,24 +1,7 @@
-# vue-task-app
+# To run project
 
-## Project setup
-```
-npm install
-```
+1) ``` npm install```
+2) ```npm run serve ```
+3) open http://localhost:8080/ in your browser
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Or alternatively your can access this application hosted online https://vue-task-app14051986.web.app/
